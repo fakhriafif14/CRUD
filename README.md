@@ -39,35 +39,37 @@ Operasi untuk menghapus data dari basis data. Contoh:
 ---
 CRUD adalah inti dari pengelolaan data pada aplikasi berbasis basis data, baik itu aplikasi web, aplikasi seluler, maupun perangkat lunak lainnya. Implementasi CRUD biasanya dilakukan melalui antarmuka pengguna (UI) atau API menggunakan berbagai teknologi dan bahasa pemrograman.
 
-## Tampilan :
 
 ### Halaman Home
 
 ![image](gambar/ss1.png)
 
-### Halaman Data Makanan
-
-![image](gambar/ss2.png)
-
-- create data makanan
+### create data makanan
 
 ![image](gambar/ss3.png)
 
 ![image](gambar/ss4.png)
 
-- update data makanan
-![image](gambar/ss13.png)
+### Read Data Makanan
 
+![image](gambar/ss2.png)
+
+
+### update data makanan
+  
+![image](gambar/ss13.png)
 ![image](gambar/ss15.png)
 
-### Halaman Data Minuman
-![image](gambar/ss11.png)
 
-- create Data Minuman
+### create Data Minuman
 ![image](gambar/ss5.png)
 ![image](gambar/ss6.png)
 
-- update Data Minuman
+### Read Data Minuman
+![image](gambar/ss11.png)
+
+
+### update Data Minuman
 ![image](gambar/ss14.png)
 ![image](gambar/ss15.png)
 
