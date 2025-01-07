@@ -64,6 +64,7 @@ CRUD adalah inti dari pengelolaan data pada aplikasi berbasis basis data, baik i
 
 ### Delete Data Makanan & Minuman
 ![image](ss1/ss7.png)
+![image](ss1/ss12.png)
 ![image](ss1/ss8.png)
 
 ### About
