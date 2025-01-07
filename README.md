@@ -1,5 +1,5 @@
 ## Web Kuliner Sederhana
-| UAS  |  Pemrograman WEB 1  |
+| **UAS** |  Pemrograman WEB 1  |
 |-------|---------
 | **NIM**   | 312310632
 | **Nama** | FAKHRI AFIF 
