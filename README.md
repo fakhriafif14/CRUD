@@ -43,38 +43,37 @@ CRUD adalah inti dari pengelolaan data pada aplikasi berbasis basis data, baik i
 
 ### Halaman Home
 
-![image](img/home.png)
+![image](ss1/ss1.png)
 
 ### Halaman Data Makanan
 
-![image](img/datamakanan.png)
+![image](ss1/ss2.png)
 
 - Menambah data makanan
 
-![image](img/add1.png)
+![image](ss1/ss3.png)
 
-![image](img/addsukses.png)
+![image](ss1/ss4.png)
 
 ### Halaman Data Minuman
 
-![image](img/dataminuman.png)
+![image](ss1/ss5.png)
 
 - Update Data Minuman
 
-![image](img/updtsukses.png)
+![image](ss1/ss6.png)
 
-
-![image](img/updatesukses.png)
+### Delete Data Makanan & Minuman
+![image](ss1/ss7.png)
+![image](ss1/ss8.png)
 
 ### About
 
-
-![image](img/about.png)
-
+![image](ss1/ss9.png)
 
 ### Contact
 
-![image](img/contact.png)
+![image](ss1/ss10.png)
 
 
 
