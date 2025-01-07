@@ -43,46 +43,46 @@ CRUD adalah inti dari pengelolaan data pada aplikasi berbasis basis data, baik i
 
 ### Halaman Home
 
-![image](ss1/ss1.png)
+![image](gambar/ss1.png)
 
 ### Halaman Data Makanan
 
-![image](ss1/ss2.png)
+![image](gambar/ss2.png)
 
 - create data makanan
 
-![image](ss1/ss3.png)
+![image](gambar/ss3.png)
 
-![image](ss1/ss4.png)
+![image](/sgambars4.png)
 
 - update data makanan
-![image](ss1/ss13.png)
+![image](gambar/ss13.png)
 
-![image](ss1/ss15.png)
+![image](gambar/ss15.png)
 
 ### Halaman Data Minuman
-![image](ss1/ss11.png)
+![image](gambar/ss11.png)
 
 - create Data Minuman
-![image](ss1/ss5.png)
-![image](ss1/ss6.png)
+![image](gambar/ss5.png)
+![image](gambar/ss6.png)
 
 - update Data Minuman
-![image](ss1/ss14.png)
-![image](ss1/ss15.png)
+![image](gambar/ss14.png)
+![image](gambar/ss15.png)
 
 ### Delete Data Makanan & Minuman
-![image](ss1/ss7.png)
-![image](ss1/ss12.png)
-![image](ss1/ss8.png)
+![image](gambar/ss7.png)
+![image](gambar/ss12.png)
+![image](gambar/ss8.png)
 
 ### About
 
-![image](ss1/ss9.png)
+![image](gambar/ss9.png)
 
 ### Contact
 
-![image](ss1/ss10.png)
+![image](gambar/ss10.png)
 
 
 
